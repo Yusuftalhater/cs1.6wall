@@ -1,4 +1,4 @@
 # cs1.6wall
-bu HACK oyun dosyaları ile birlikte gelmektedir
-indirdiğiniz Counter-Strike 1.6.zip dosyayı 
-C:\Games klasörüne taşıyın ve dosyayı ayıklayın
+CS 1.6   build 8684 içindir 
+komut sistemine bunu girin
+.\dllInjector-x86.exe -p [pid değeri] -l "Multihack by eVOL.dll" -P -c
